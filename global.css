@@ -1,0 +1,59 @@
+.font-sacramento
+{
+    font-family: 'Sacramento', cursive;
+}
+.font-breeserif
+{
+    font-family: 'Bree Serif', serif;
+}
+.font-notoserif
+{
+    font-family: 'Noto Serif', serif;
+}
+.px240
+{
+    height: 280px;
+    width: 280px;
+}
+.image-icon
+{
+    height: 280px;
+    width: 280px;
+    border-radius: 50%;
+}
+.p-color
+{
+    color: #DCD7C9;
+    font-weight: 1;
+    line-height: 2;
+    font-size: 18px;
+}
+.color-dcoffe
+{
+    color: #371800
+}
+.color-black
+{
+    color: black;
+}
+.color-cream
+{
+    color: #DCD7C9;
+}
+.text-center
+{
+    text-align: center;
+}
+.width440
+{
+    width: 360px;
+}
+h3
+{
+    font-weight: 1;
+    line-height: 2;
+}
+.px2
+{
+    font-size: 20px;
+}
