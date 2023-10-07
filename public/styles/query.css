@@ -1,0 +1,19 @@
+@media only screen and (max-width: 900px) {
+   
+    h1.font-sacramento
+    {
+        font-size: 100px;
+    }
+    .px240
+    {
+        width: 200px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width: 650px) {
+    .px240
+    {
+        width: 100px;
+        height: 100px;
+    }
+}

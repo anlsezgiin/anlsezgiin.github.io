@@ -1,6 +1,7 @@
 .font-sacramento
 {
     font-family: 'Sacramento', cursive;
+    font-size: 200px;
 }
 .font-breeserif
 {
@@ -27,6 +28,7 @@
     font-weight: 1;
     line-height: 2;
     font-size: 18px;
+    
 }
 .color-dcoffe
 {
@@ -46,7 +48,7 @@
 }
 .width440
 {
-    width: 360px;
+    width: 400px;
 }
 h3
 {

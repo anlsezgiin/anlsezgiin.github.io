@@ -27,8 +27,13 @@
 .third-container
 {
     background-color: #A27B5C;
-    padding-top: 100px;
-    padding-bottom: 100px ;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 .last-container
 {   
@@ -71,19 +76,20 @@ h2
     display: flex;
     justify-content: space-between;
     padding: 40px;
-    margin-left: 100px;
-    margin-right: 100px;
+    
+    
 }
 .info
 {
-    width: 700px;
+    max-width: 800px;
     text-align: center;
     line-height: 2;
     font-size: 24px;
+    padding: 10px;
 }
 .contact-text
 {
-    width: 700px;
+    max-width: 900px;
     text-align: center;
     line-height: 2;
     font-size: 24px;
@@ -91,12 +97,11 @@ h2
 }
 .parent-grid
 {
-    display: grid;
-    grid-template-columns: 0.8fr 1fr;
-    grid-template-rows: repeat(1,1fr);
-    width: 50%;
-    margin: 100px auto 0 auto;
-    row-gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 .links
 {
@@ -111,7 +116,7 @@ h2
 }
 .footer
 {
-    height: 100px;
+    
     width: 100%;
     background-color: #2C3639;
     display: flex;
